@@ -1,2 +1,0 @@
-# 2992_SmartBooking_Database
-2992_SmartBooking_Database Sqlservers
